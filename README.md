@@ -1,5 +1,9 @@
 # Dependency Injection 
 ![DI_NET](https://user-images.githubusercontent.com/21302583/68460253-58833880-022d-11ea-97b0-795ff0b58bc5.png)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/2ts29stgii1xhhng?svg=true)](https://ci.appveyor.com/project/Mahadenamuththa/dependencyinjectionexample)
+
+[![Build history](https://buildstats.info/appveyor/chart/Mahadenamuththa/dependencyinjectionexample)](https://ci.appveyor.com/project/Mahadenamuththa/dependencyinjectionexample/history)
  
 ASP.NET Core is designed from scratch to support Dependency Injection. ASP.NET Core injects objects of dependency classes through constructor or method by using built-in IoC container.
 
