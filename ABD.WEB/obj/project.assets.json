@@ -12095,11 +12095,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PasinduUmayanga\\source\\repos\\AbstractDataBidningExample\\ABD.WEB\\ABD.WEB.csproj",
+      "projectUniqueName": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.WEB\\ABD.WEB.csproj",
       "projectName": "ABD.WEB",
-      "projectPath": "C:\\Users\\PasinduUmayanga\\source\\repos\\AbstractDataBidningExample\\ABD.WEB\\ABD.WEB.csproj",
+      "projectPath": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.WEB\\ABD.WEB.csproj",
       "packagesPath": "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PasinduUmayanga\\source\\repos\\AbstractDataBidningExample\\ABD.WEB\\obj\\",
+      "outputPath": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12118,8 +12118,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\PasinduUmayanga\\source\\repos\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj": {
-              "projectPath": "C:\\Users\\PasinduUmayanga\\source\\repos\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj"
+            "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj": {
+              "projectPath": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj"
             }
           }
         }

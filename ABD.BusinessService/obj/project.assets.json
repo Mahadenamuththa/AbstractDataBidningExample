@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PasinduUmayanga\\source\\repos\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj",
+      "projectUniqueName": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj",
       "projectName": "ABD.BusinessService",
-      "projectPath": "C:\\Users\\PasinduUmayanga\\source\\repos\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj",
+      "projectPath": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj",
       "packagesPath": "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PasinduUmayanga\\source\\repos\\AbstractDataBidningExample\\ABD.BusinessService\\obj\\",
+      "outputPath": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.BusinessService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
