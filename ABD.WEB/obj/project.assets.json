@@ -4438,16 +4438,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
-      },
-      "ABD.BusinessService/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/ABD.BusinessService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ABD.BusinessService.dll": {}
-        }
       }
     }
   },
@@ -12073,16 +12063,10 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
-    },
-    "ABD.BusinessService/1.0.0": {
-      "type": "project",
-      "path": "../ABD.BusinessService/ABD.BusinessService.csproj",
-      "msbuildProject": "../ABD.BusinessService/ABD.BusinessService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "ABD.BusinessService >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
@@ -12095,11 +12079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.WEB\\ABD.WEB.csproj",
+      "projectUniqueName": "D:\\Personal\\GitHub Samples\\DependencyInjectionExample\\ABD.WEB\\ABD.WEB.csproj",
       "projectName": "ABD.WEB",
-      "projectPath": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.WEB\\ABD.WEB.csproj",
+      "projectPath": "D:\\Personal\\GitHub Samples\\DependencyInjectionExample\\ABD.WEB\\ABD.WEB.csproj",
       "packagesPath": "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.WEB\\obj\\",
+      "outputPath": "D:\\Personal\\GitHub Samples\\DependencyInjectionExample\\ABD.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12117,11 +12101,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj": {
-              "projectPath": "D:\\Personal\\GitHub Samples\\AbstractDataBidningExample\\ABD.BusinessService\\ABD.BusinessService.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
