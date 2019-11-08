@@ -10,7 +10,6 @@ C:\Users\PasinduUmayanga\source\repos\AbstractDataBidningExample\ABD.BusinessSer
 D:\Personal\GitHub Samples\AbstractDataBidningExample\ABD.BusinessService\bin\Debug\netcoreapp2.2\ABD.BusinessService.deps.json
 D:\Personal\GitHub Samples\AbstractDataBidningExample\ABD.BusinessService\bin\Debug\netcoreapp2.2\ABD.BusinessService.dll
 D:\Personal\GitHub Samples\AbstractDataBidningExample\ABD.BusinessService\bin\Debug\netcoreapp2.2\ABD.BusinessService.pdb
-D:\Personal\GitHub Samples\AbstractDataBidningExample\ABD.BusinessService\obj\Debug\netcoreapp2.2\ABD.BusinessService.csprojAssemblyReference.cache
 D:\Personal\GitHub Samples\AbstractDataBidningExample\ABD.BusinessService\obj\Debug\netcoreapp2.2\ABD.BusinessService.csproj.CoreCompileInputs.cache
 D:\Personal\GitHub Samples\AbstractDataBidningExample\ABD.BusinessService\obj\Debug\netcoreapp2.2\ABD.BusinessService.AssemblyInfoInputs.cache
 D:\Personal\GitHub Samples\AbstractDataBidningExample\ABD.BusinessService\obj\Debug\netcoreapp2.2\ABD.BusinessService.AssemblyInfo.cs
