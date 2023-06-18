@@ -1,6 +1,12 @@
 # Dependency Injection 
 ![DI_NET](https://user-images.githubusercontent.com/21302583/68460253-58833880-022d-11ea-97b0-795ff0b58bc5.png)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_DependencyInjectionExample&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_DependencyInjectionExample)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_DependencyInjectionExample&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_DependencyInjectionExample)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_DependencyInjectionExample&metric=bugs)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_DependencyInjectionExample)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_DependencyInjectionExample&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_DependencyInjectionExample)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_DependencyInjectionExample&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_DependencyInjectionExample)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_DependencyInjectionExample&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_DependencyInjectionExample)
 [![Build status](https://ci.appveyor.com/api/projects/status/2ts29stgii1xhhng?svg=true)](https://ci.appveyor.com/project/Mahadenamuththa/dependencyinjectionexample)
 
 [![Build history](https://buildstats.info/appveyor/chart/Mahadenamuththa/dependencyinjectionexample)](https://ci.appveyor.com/project/Mahadenamuththa/dependencyinjectionexample/history)
